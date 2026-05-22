@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1a0f,40:0d3320,100:064e3b&height=280&section=header&text=KARTHIK%20NARAMALA&fontSize=56&fontColor=f0fdf4&fontAlignY=48&desc=SOFTWARE%20ENGINEER%20%C2%B7%20SAAS%20BUILDER%20%C2%B7%20MOBILE%20SYSTEMS&descSize=15&descAlignY=68&descColor=6ee7b7&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:052e16,100:064e3b&height=250&section=header&text=KARTHIK%20NARAMALA&fontSize=50&fontColor=f8fafc&fontAlignY=42&desc=CO-FOUNDER%20•%20SOFTWARE%20ENGINEER%20•%20SAAS%20BUILDER&descSize=15&descAlignY=60&descColor=86efac&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://clykur.com">
-  <img src="https://img.shields.io/badge/Clykur-Engineer-ECFDF5?style=for-the-badge&logo=vercel&logoColor=10B981&color=ECFDF5" />
+  <img src="https://img.shields.io/badge/Clykur-Co--Founder%20%26%20Software%20Engineer-0f172a?style=for-the-badge&logo=vercel&logoColor=6ee7b7&labelColor=111827" />
 </a>
 
 <a href="#">
@@ -45,6 +45,7 @@
 
   NAME       →   Karthik Naramala
   ROLE       →   Software Engineer · Mobile Systems · SaaS Builder
+  VENTURES   →   Clykur (Co-Founder)
   BUILDING   →   CusOwn (Mobile + Backend Infrastructure)
   STACK      →   React Native → Supabase → TypeScript → PostgreSQL
   EDUCATION  →   B.Tech — Computer Science
@@ -180,19 +181,9 @@ Focused on scalable mobile systems with clean UX and stable backend infrastructu
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=ffffff&title_color=059669&icon_color=047857&text_color=334155&border_radius=12&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&custom_title=Activity+Overview&ring_color=10b981" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthiknaramala9949&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=ffffff&ring=059669&fire=047857&currStreakLabel=059669&sideLabels=475569&dates=64748b&currStreakNum=0a1a0f&sideNums=334155&border_radius=12" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&hide_border=true&bg_color=ffffff&title_color=059669&text_color=334155&border_radius=12&layout=compact&langs_count=8&custom_title=Language+Distribution" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=default" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiknaramala9949&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -200,7 +191,7 @@ Focused on scalable mobile systems with clean UX and stable backend infrastructu
 
 <div align="center">
 
-<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff&color=059669&line=047857&point=0a1a0f&area_color=a7f3d0&area=true&hide_border=true&custom_title=Contribution+Timeline+%E2%80%94+YOUR_USERNAME&radius=12" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthiknaramala9949&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
@@ -208,7 +199,15 @@ Focused on scalable mobile systems with clean UX and stable backend infrastructu
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&margin-w=10&margin-h=10&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews" />
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=chinnuk0521&bg_color=ffffff&color=2563eb&line=7c3aed&point=0f172a&area_color=bfdbfe&area=true&hide_border=true&custom_title=Contribution+Timeline+%E2%80%94+chinnuk0521&radius=12" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chinnuk0521&theme=flat&no-frame=true&margin-w=10&margin-h=10&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews" />
 
 </div>
 
@@ -270,20 +269,20 @@ Focused on scalable mobile systems with clean UX and stable backend infrastructu
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/venkata-karthik-naramala">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/karthiknaramala9949">
   <img src="https://img.shields.io/badge/-GitHub-064e3b?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:karthiknaramala9949@gmail.com">
   <img src="https://img.shields.io/badge/-Email-059669?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://cusown.clykur.com">
-  <img src="https://img.shields.io/badge/-CusOwn-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<a href="https://www.instagram.com/karthik_naramala/">
+   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </div>
@@ -311,11 +310,11 @@ Focused on scalable mobile systems with clean UX and stable backend infrastructu
 
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=5&color=12)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://visitcount.itsvg.in/api?id=karthiknaramala9949&icon=5&color=12)](https://github.com/karthiknaramala9949)
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=6ee7b7&labelColor=d1fae5&logo=github&logoColor=064e3b" />
+<img src="https://img.shields.io/github/followers/karthiknaramala9949?label=Followers&style=for-the-badge&color=6ee7b7&labelColor=d1fae5&logo=github&logoColor=064e3b" />
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&color=34d399&labelColor=ecfdf5&logo=github&logoColor=064e3b" />
+<img src="https://img.shields.io/github/stars/karthiknaramala9949?label=Stars&style=for-the-badge&color=34d399&labelColor=ecfdf5&logo=github&logoColor=064e3b" />
 
 <br/><br/>
 
@@ -333,4 +332,4 @@ Focused on scalable mobile systems with clean UX and stable backend infrastructu
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:0d3320,100:0a1a0f&height=120&section=footer&text=CUSOWN.CLYKUR.COM&fontSize=14&fontColor=f0fdf4&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:0d3320,100:0a1a0f&height=120&section=footer&text=WWW.CLYKUR.COM&fontSize=14&fontColor=f0fdf4&fontAlignY=65&animation=fadeIn" width="100%"/>
