@@ -1,27 +1,230 @@
-# 💫 About Me:
-Hi, I'm Karthik Naramala 👋<br>Co-founder @ Clykur | Software Developer | Product Builder<br><br>I build products from zero to scale.<br><br>Currently co-founding Clykur, where I focus on turning ideas into real, usable systems — fast. My work sits at the intersection of engineering, product thinking, and execution.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:1e293b&height=240&section=header&text=KARTHIK%20NARAMALA&fontSize=52&fontColor=f8fafc&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20•%20SAAS%20BUILDER%20•%20MOBILE%20SYSTEMS&descSize=16&descAlignY=62&animation=fadeIn" width="100%" />
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/karthik_naramala/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/venkata-karthik-naramala/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Naramala-Venkata-Karthik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karthiknaramala9949@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=karthiknaramala9949&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=karthiknaramala9949&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=karthiknaramala9949&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://img.shields.io/badge/Building-CusOwn-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8&labelColor=111827" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=karthiknaramala9949&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://img.shields.io/badge/Stack-React%20Native%20%7C%20Supabase-0f172a?style=for-the-badge&logo=react&logoColor=61dafb&labelColor=111827" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Backend%20Systems-0f172a?style=for-the-badge&logo=serverless&logoColor=34d399&labelColor=111827" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=karthiknaramala9949&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
+
+<br/>
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=%3E_+Building+CusOwn+%E2%80%94+Multi-Tenant+Booking+Infrastructure;%3E_+React+Native+%2B+TypeScript+Engineer;%3E_+Backend+Systems+%26+Supabase+Architecture;%3E_+Shipping+Products+Consistently;%3E_+Focused+on+Real-World+Software+Systems)
+
+</div>
+
+<br/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=karthiknaramala9949&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# `01` Identity
+
+<br/>
+
+```bash
+$ whoami
+
+Name        → Karthik Naramala
+Role        → Software Engineer
+Focus       → Mobile Apps · Backend Systems · SaaS
+Building    → CusOwn
+Stack       → React Native · TypeScript · Supabase
+Based In    → India
+Status      → Shipping · Scaling · Improving
+
+$ ls ./current_focus/
+
+├── cusown-mobile/
+├── booking-system-architecture/
+├── supabase-infrastructure/
+├── mobile-ui-systems/
+├── realtime-slot-management/
+└── backend-performance/
+```
+
+<br/>
+
+---
+
+# `02` Currently Building
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/CUSOWN-Live-0f172a?style=for-the-badge&logo=googlecalendar&logoColor=38bdf8&labelColor=111827" />
+
+```txt
+Type      → SaaS · Multi-Tenant
+Platform  → Mobile + Backend Infrastructure
+Status    → Active Development
+```
+
+Multi-tenant booking infrastructure designed for service businesses.
+
+### Features
+
+```txt
+[✓] Real-time slot management
+[✓] Multi-business architecture
+[✓] Booking workflows
+[✓] Business analytics
+[✓] Customer management
+[✓] Authentication systems
+[✓] Mobile-first experience
+[✓] Role-based access control
+[~] Payment integrations
+[~] White-label support
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/FOCUS-Engineering-0f172a?style=for-the-badge&logo=github&logoColor=34d399&labelColor=111827" />
+
+```txt
+Frontend  → React Native · Expo
+Backend   → Supabase · PostgreSQL
+Infra     → Docker · Vercel
+Language  → TypeScript
+```
+
+Focused on building scalable systems with clean UX and stable backend infrastructure.
+
+### Current Priorities
+
+```txt
+[•] Mobile performance optimization
+[•] Database architecture refinement
+[•] Booking workflow reliability
+[•] UI consistency systems
+[•] Realtime synchronization
+[•] Production deployment pipelines
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+# `03` Stack
+
+<br/>
+
+### Frontend
+
+![React Native](https://img.shields.io/badge/React_Native-111827?style=flat-square&logo=react&logoColor=61dafb)
+![Expo](https://img.shields.io/badge/Expo-111827?style=flat-square&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178c6)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111827?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
+
+### Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Supabase](https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3ecf8e)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169e1)
+![REST API](https://img.shields.io/badge/REST_APIs-111827?style=flat-square&logo=fastapi&logoColor=38bdf8)
+
+### Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ed)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=2088ff)
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=fcc624)
+
+<br/>
+
+---
+
+# `04` GitHub Activity
+
+<br/>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&border_radius=12&include_all_commits=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=f8fafc&sideNums=cbd5e1&border_radius=12" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0f172a&color=38bdf8&line=38bdf8&point=f8fafc&area=true&hide_border=true&custom_title=Contribution%20Graph" />
+
+</div>
+
+<br/>
+
+---
+
+# `05` Engineering Principles
+
+<br/>
+
+```txt
+01 → Build systems that solve real problems.
+02 → Prioritize execution over aesthetics.
+03 → Keep architecture simple and scalable.
+04 → Ship consistently and improve continuously.
+05 → Good UX is part of engineering.
+06 → Reliability matters more than hype.
+07 → Performance is a feature.
+08 → Write code that survives growth.
+```
+
+<br/>
+
+---
+
+# `06` Connect
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+```txt
+"Focused on building scalable software systems that people actually use."
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:111827,100:0f172a&height=120&section=footer" width="100%" />
+
+</div>
