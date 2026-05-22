@@ -181,16 +181,6 @@ Focused on scalable mobile systems with clean UX and stable backend infrastructu
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthiknaramala9949&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiknaramala9949&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthiknaramala9949&theme=github-dark-blue&hide_border=true" />
 
 </div>
@@ -199,7 +189,7 @@ Focused on scalable mobile systems with clean UX and stable backend infrastructu
 
 <div align="center">
 
-<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=chinnuk0521&bg_color=ffffff&color=2563eb&line=7c3aed&point=0f172a&area_color=bfdbfe&area=true&hide_border=true&custom_title=Contribution+Timeline+%E2%80%94+chinnuk0521&radius=12" />
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=chinnuk0521&bg_color=ffffff&color=2563eb&line=7c3aed&point=0f172a&area_color=bfdbfe&area=true&hide_border=true&custom_title=Contribution+Timeline+%E2%80%94+Karthik&radius=12" />
 
 </div>
 
@@ -298,12 +288,12 @@ Focused on scalable mobile systems with clean UX and stable backend infrastructu
 <div align="center">
 
 ```
-  ┌──────────────────────────────────────────────────────────────────────┐
-  │                                                                      │
-  │   "Focused systems outlast ambitious architectures. Ship first."     │
-  │                                                  — Karthik Naramala │
-  │                                                                      │
-  └──────────────────────────────────────────────────────────────────────┘
+  ┌─────────────────────────────────────────────────────────┐
+  │                                                         │
+  │   "Build useful systems. Let the work speak."           │
+  │                                      — Karthik Naramala │
+  │                                                         │
+  └─────────────────────────────────────────────────────────┘
 ```
 
 <br/>
